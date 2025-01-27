@@ -2,7 +2,7 @@
 
 # **Desafio Prático - Ciência de Dados**
 
-Este repositório foi criado com o objetivo de apresentar o trabalho desenvolvido no estudo de caso para a treinar alguns conceitos da área de **Ciência de Dados**.
+Este repositório foi criado com o objetivo de apresentar o trabalho desenvolvido no estudo de caso para a treinamento de alguns conceitos abordados na área de **Ciência de Dados**.
 
 ## ***Introdução***
 
